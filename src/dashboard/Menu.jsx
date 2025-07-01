@@ -35,7 +35,7 @@ const Menu = () => {
 
   return (
     <div className="menu-container">
-      <img src="/public/media/images/flag.svg" style={{ width: "40px" }} alt="flag" />
+      <img src="media/images/flag.svg" style={{ width: "40px" }} alt="red-flag" />
       <div className="menus">
         <ul>
           <li>
